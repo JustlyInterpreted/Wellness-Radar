@@ -1,0 +1,7 @@
+{
+  "name": "Wellness Trend Radar",
+  "description": "A predictive trend detection system for the Indian wellness market, identifying emerging opportunities before they go mainstream.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
